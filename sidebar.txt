@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[noq:home|Door43 (noq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-noq|d43-noq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-noq/archive/master.zip|d43-noq.zip]]
+
+**Recent Changes**
+{{changes>ns = noq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/noq|Ethnologue data]]
+
